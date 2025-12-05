@@ -18,5 +18,14 @@ Phase 2 – Data Preprocessing:
 
 ---
 
-Phase 3 – Machine Learning:  
-...
+Phase 3 – Machine Learning:   
+3.1 Simple classifier based on data dependencies  
+3.2 Training and evaluation of ML classifiers  
+3.3 Hyperparameter tuning and optimization  
+3.4 Evaluation of classification strategy  
+
+---
+ 
+The Quest (ML/DL Project):  
+4.1 EDA and data preprocessing  
+4.2 Modeling and evaluation  
