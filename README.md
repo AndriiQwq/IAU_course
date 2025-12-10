@@ -29,3 +29,5 @@ Phase 3 – Machine Learning:
 The Quest (ML/DL Project):  
 4.1 EDA and data preprocessing  
 4.2 Modeling and evaluation  
+
+Link to the dataset: [COVID-19 Image Dataset](https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset)
